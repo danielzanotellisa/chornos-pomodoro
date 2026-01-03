@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.8rem;
+}
+
+.menuItem {
+    color: var(--gray-900);
+    background: var(--primary);
+    border: 1px solid transparent;
+    border-radius: 0.8rem;
+    padding: 1rem;
+}
+
+.menuItem svg {
+    width: 24px;
+    height: 24px;
+}
