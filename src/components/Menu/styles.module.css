@@ -11,9 +11,14 @@
     border: 1px solid transparent;
     border-radius: 0.8rem;
     padding: 1rem;
+    transition: all 0.15s ease-in-out;
 }
 
 .menuItem svg {
     width: 24px;
     height: 24px;
+}
+
+.menuItem:hover {
+    filter: brightness(80%)
 }
