@@ -9,7 +9,7 @@ export function App() {
         <>
             <Container>
                 <Logo>
-                    <TimerIcon/>
+                    <TimerIcon size={56}/>
                     <HeadingComponent>Chronos</HeadingComponent>
                 </Logo>
             </Container>
