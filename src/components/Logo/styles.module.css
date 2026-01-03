@@ -1,0 +1,8 @@
+.logo_wrapper {
+    display: grid;
+    gap: 0.8rem;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    color: var(--primary)
+}
