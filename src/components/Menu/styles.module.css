@@ -6,12 +6,13 @@
 }
 
 .menuItem {
-    color: var(--gray-900);
+    color: var(--text-over-primary);
     background: var(--primary);
     border: 1px solid transparent;
     border-radius: 0.6rem;
     padding: 1rem;
     transition: all 0.15s ease-in-out;
+    text-decoration: none;
 }
 
 .menuItem svg {
